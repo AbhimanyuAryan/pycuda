@@ -1,6 +1,5 @@
 #include <cuda.h>
 #include <stdio.h>
-#include <cuda_runtime.h>
 
 // compute vector sum C = A + B
 // each thread peforms one pair-wise addition
